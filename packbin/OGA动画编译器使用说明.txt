@@ -1,0 +1,10 @@
+ouapacker [-p directory] [-f fps] [-o output] [-fmt xx%d.png] [-s startfrom] [-x spotX] [-y spotY] [-trans color]
+
+-p directory  表示原动画集路径
+-f fps        动画每秒帧数
+-o output     输出文件名
+-fmt xx%d.png 动画原文件的命名规则
+-s startfrom  动画原文件起始编号
+-x spotX      中心x轴
+-y spotY      中心y轴
+-trans color  透明色

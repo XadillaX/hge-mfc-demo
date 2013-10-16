@@ -1,0 +1,7 @@
+REGEDIT
+
+HKEY_CLASSES_ROOT\.ogm = ONUOO.OGameMap
+HKEY_CLASSES_ROOT\ONUOO.OGameMap\shell\open\command = "D:\XP_PROJECT\MFC Walk\MapMakerBin\OUMapMakerEXD.EXE" "%1"
+HKEY_CLASSES_ROOT\ONUOO.OGameMap\DefaultIcon = "D:\XP_PROJECT\MFC Walk\MapMakerBin\OUMapMakerEXD.EXE,1"
+
+HKEY_CLASSES_ROOT\ONUOO.OGameMap = O游戏棋牌大厅地图文件

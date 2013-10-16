@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Manager>
+	<Children>
+		<Stage id="-100" name="GameStage"></Stage>
+	
+		<Panel id="1" name="BottomPanel">
+			<Left>0</Left>
+			<Top>349</Top>
+			<Width>800</Width>
+			<Height>251</Height>
+			
+			<Background>GUI/Assets/bottompanel.oga</Background>
+		</Panel>
+	</Children>
+</Manager>

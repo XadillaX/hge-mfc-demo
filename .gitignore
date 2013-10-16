@@ -12,7 +12,6 @@
 [Rr]elease/
 x64/
 build/
-[Bb]in/
 [Oo]bj/
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
@@ -149,3 +148,19 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+# ==========================
+# Customer
+# ==========================
+
+Bin/OU*.*
+Bin/Obj*
+
+DemoBin/Obj*
+DemoBin/OU*
+*.bak
+*副本*
+MapMakerBin/Obj*
+MapMakerBin/OU*
+
+packbin/Obj

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312"?>
+<FontLoader>
+	<Font name="defaultGUI" font="宋体" size="12" bold="0" italic="0" antialias="1" />
+	<Font name="Heiti" font="微软雅黑" size="12" bold="0" italic="0" antialias="1" />
+	<Font name="Heiti1" font="微软雅黑" size="20" bold="1" italic="0" antialias="1" />
+</FontLoader>

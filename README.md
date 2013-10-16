@@ -8,6 +8,8 @@ HGE MFC Demo
 目录说明
 --------
 
+> 该Demo的主要参考价值在于 **OUMapMakerEx** 以及 **OUMapDemo**。
+
 ### Bin
 
 用于生成最初的测试。
